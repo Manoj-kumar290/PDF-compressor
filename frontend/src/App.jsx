@@ -51,7 +51,7 @@ function App() {
   return (
     <div className="app">
       <div className="card">
-        <h1>PDF Compressor</h1>
+        <h1>PDF Compressor update</h1>
 
         <p className="subtitle">
           Upload and compress your PDF files easily
